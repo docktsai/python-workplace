@@ -1,0 +1,20 @@
+2025-05-12 22:41:53,650 - DEBUG -  This is logging for Debug
+2025-05-12 22:41:53,650 - ERROR -  This is logging for Error
+2025-05-12 22:41:53,650 - INFO -  This is logging for info
+2025-05-12 22:41:53,650 - DEBUG -  --- to test common function 1 logging
+2025-05-12 22:41:53,650 - DEBUG -  --- to test common function 2 logging
+2025-05-12 22:42:31,456 - DEBUG -  This is logging for Debug
+2025-05-12 22:42:31,456 - ERROR -  This is logging for Error
+2025-05-12 22:42:31,456 - INFO -  This is logging for info
+2025-05-12 22:42:31,456 - DEBUG -  --- to test common function 1 logging
+2025-05-12 22:42:31,456 - DEBUG -  --- to test common function 2 logging
+2025-05-12 22:44:07,958 - DEBUG -  This is logging for Debug
+2025-05-12 22:44:07,958 - ERROR -  This is logging for Error
+2025-05-12 22:44:07,958 - INFO -  This is logging for info
+2025-05-12 22:44:07,958 - DEBUG -  --- to test common function 1 logging
+2025-05-12 22:44:07,958 - DEBUG -  --- to test common function 2 logging
+2025-05-12 22:47:05,804 - DEBUG -  This is logging for Debug
+2025-05-12 22:47:05,804 - ERROR -  This is logging for Error
+2025-05-12 22:47:05,805 - INFO -  This is logging for info
+2025-05-12 22:47:05,805 - DEBUG -  --- to test common function 1 logging
+2025-05-12 22:47:05,805 - DEBUG -  --- to test common function 2 logging

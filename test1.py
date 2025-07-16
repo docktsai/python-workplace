@@ -7,5 +7,3 @@ class ApaInfo:
     api_id: str
     create_date: datetime
     update_date: datetime
-
-x = 

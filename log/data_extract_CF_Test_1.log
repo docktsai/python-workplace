@@ -1,0 +1,4 @@
+2025-05-12 22:36:01,614 - DEBUG -  This is logging for Debug
+2025-05-12 22:36:01,614 - ERROR -  This is logging for Error
+2025-05-12 22:36:01,614 - INFO -  This is logging for info
+2025-05-12 22:36:01,614 - DEBUG -  --- to test common function 1 logging
