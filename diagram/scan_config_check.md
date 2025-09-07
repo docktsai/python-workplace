@@ -1,10 +1,5 @@
 # Scan Config Check flow diagram
-
----
-config:
-  theme: redux
-  layout: dagre
----
+``` mermaid
 flowchart TD
     A(["Start"]) --> B{"Is Cloud Managed KMS key?"}
     B -- Yes --> T(["OK to scan."])
